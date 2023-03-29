@@ -19,6 +19,7 @@ namespace Focivb
             foreach (var v in VbList) {
                 db++;
             }
+            Console.WriteLine("6.feladat: ");
         }
 
         private static void Feladat5()
